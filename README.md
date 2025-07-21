@@ -1,16 +1,28 @@
-## Hi there 👋
+## About Me
 
-<!--
-**DylanJDombrowski/DylanJDombrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I’m Dylan Dombrowski—a tech enthusiast and current IT Rotational Analyst (ITLP) at Churchill Downs Inc. My journey spans pizza to pixels, starting in my family’s kitchen at Pizza Mia (New Lenox—check it out!) and now building innovative software.
 
-Here are some ideas to get you started:
+**Career Path:**
+- **IT Rotational Program:** 2 years, 4 rotations (6 months each)
+  - **Twinspires:** Software Development (React, Next.js, Supabase, ML, TypeScript, Tailwind)
+  - **Churchill Downs Inc.:** Network Engineering
+  - **BRM Team:** Business Relationship Management, working on Micros Simphony solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Certifications:**
+- Lean Six Sigma Yellow Belt
+- Working toward CompTIA Network+ & AWS Practitioner
+
+**Projects:**
+- **TallyRoster:** My most ambitious project—nearing completion!
+- **POS System:** Big dreams, half-baked (for now)—hoping to revisit as a 3rd-party dev for major POS platforms
+
+**Philosophy:**  
+Professional, but always casual and friendly. We’re here to create, grow, and prosper — together!
+
+**Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/dylandombrowski/)  
+- [X (Twitter)](https://x.com/dylandombro)
+
+---
+
+Pizza to pixels. Let’s build something awesome together.
