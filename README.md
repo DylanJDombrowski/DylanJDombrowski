@@ -1,6 +1,6 @@
 ## About Me
 
-Hey there! I’m Dylan Dombrowski—a tech enthusiast and current IT Rotational Analyst (ITLP) at Churchill Downs Inc. My journey spans pizza to pixels, starting in my family’s kitchen at Pizza Mia (New Lenox—check it out!) and now building innovative software.
+Hey there! I’m Dylan Dombrowski — a tech enthusiast and current IT Rotational Analyst (ITLP) at Churchill Downs Inc. My journey spans pizza to pixels, starting in my family’s kitchen at Pizza Mia in New Lenox, IL (check it out!) and now building innovative software.
 
 **Career Path:**
 - **IT Rotational Program:** 2 years, 4 rotations (6 months each)
