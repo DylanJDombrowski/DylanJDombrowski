@@ -13,8 +13,8 @@ Hey there! I’m Dylan Dombrowski — a tech enthusiast and current IT Rotationa
 - Working toward CompTIA Network+ & AWS Practitioner
 
 **Projects:**
-- **TallyRoster:** My most ambitious project—nearing completion!
-- **POS System:** Big dreams, half-baked (for now)—hoping to revisit as a 3rd-party dev for major POS platforms
+- **TallyRoster:** My most ambitious project nearing completion! An all in one team management solution
+- **POS System:** Big dreams, half-baked (for now) — hoping to revisit as a 3rd-party dev for major POS platforms
 
 **Philosophy:**  
 Professional, but always casual and friendly. We’re here to create, grow, and prosper — together!
